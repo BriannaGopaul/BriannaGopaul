@@ -14,3 +14,5 @@ I aspire to build groundbreaking technologies that help humanity advance and flo
 - [Technological Bottlenecks in Biosurveillance Technologies Report](https://github.com/BriannaGopaul/Tech_Bottlenecks_Biosurveillance_Report)
 - [Farnsworth Fusor In My Garage](https://www.youtube.com/watch?v=-Qhzog5E458) (not complete)
 - [Continuous Variable Quantum Gate Visualizations](https://strawberryfields.ai/photonics/demos/run_gate_visualization.html) 
+
+contact me at briannagopaul14@gmail.com
