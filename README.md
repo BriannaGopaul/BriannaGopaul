@@ -8,6 +8,8 @@ My interests span fusion energy, metagenomic sequencing, AI and more. I've inter
 
 I aspire to build groundbreaking technologies that help humanity advance and flourish. 
 
+[condensed portfolio page](https://briannagopaul.com/condensed-portfolio)
+
 ### projects
 - [Soft Actor Critic + Computer Vision Robot in Gazebo](https://github.com/HudsonNock/ENPH353_Competition)
 - [Overcooked Playing Robot](https://github.com/BriannaGopaul/RobotSummer)
