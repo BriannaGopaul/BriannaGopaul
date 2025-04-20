@@ -8,7 +8,7 @@ My interests span fusion energy, metagenomic sequencing, AI and more. I've inter
 
 I aspire to build groundbreaking technologies that help humanity advance and flourish. 
 
-[portfolio]([https://drive.google.com/file/d/1uOyzOjRDjJUOYj24bt3u0npFJN11b3dr/view?usp=sharing](https://drive.google.com/file/d/1-5r7_ao5ggfASoY578LZaIvn9tAFrbcX/view?usp=sharing))
+[portfolio](https://drive.google.com/file/d/1-5r7_ao5ggfASoY578LZaIvn9tAFrbcX/view?usp=sharing)
 
 
-contact me at briannagopaul14@gmail.com
+contact me at briannagopaul14@gmail.comg
